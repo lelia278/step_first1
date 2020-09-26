@@ -1,0 +1,70 @@
+body,p,a{
+    text-decoration:none;
+    margir: 0;
+}
+a:hover{
+    text-decoration: none;
+}
+.menu{
+    height: 60px;
+    width: 100%;
+    background-color: #3D3C3C;
+}   
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_button{
+    font-size: 14px;
+    color: white;
+}
+.main_page{
+    height: 500px;
+    width: 100%;
+
+    background: url(img/bg1.png);
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+    font-size: 2vw;
+    letter-spacing: 5px;
+}
+.like{
+    height: 400px;
+    width: 100%;
+
+    background: url(img/bg2.png);
+    background-size: cover;
+    background-position: center;
+}
+.like_top{
+    height: 150px;
+    width: 100%;
+
+    color: #3D3C3C;
+    font-size: 2vw;
+}
+.like_bottom{
+    height: 88px;
+    width: 100%;
+}
+.like_button{
+    border: #3D3C3C solid 2px;
+}
+.like_botto_text{
+    color: #3D3C3C;
+    font-size: 16px;
+    padding: 8px 14px
+}
+.right{
+    height: 500px;
+    width: 100%;
+
+    background: url(img/bg3.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
